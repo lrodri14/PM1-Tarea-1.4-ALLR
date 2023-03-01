@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyecto1.4</string>
+    <string name="tituloPersonas">Agenda de Perfiles</string>
+    <string name="labelAgregarContacto">Agregar Perfil</string>
+    <string name="labelVerContactos">Ver Perfiles</string>
+    <string name="integrantes">Armando Lozano - Luis Rodriguez</string>
+    <string name="cuentas">200960530012 - 201930110148</string>
+    <string name="regresar">Regresar</string>
+    <string name="contentDescriptionImg">Imagen</string>
+    <string name="labelTomarFoto">Tomar Foto</string>
+    <string name="labelVerFoto">Mostrar Foto</string>
+    <string name="labelCargarFoto">Imagen de Perfil</string>
+    <string name="labelNombre">Ingrese el Nombre</string>
+    <string name="labelDescripcion">Agregue la Descripcion</string>
+    <string name="labelGuardar">Guardar</string>
+    <string name="labelEliminar">Eliminar</string>
+    <string name="labelActualizar">Actualizar</string>
+</resources>
